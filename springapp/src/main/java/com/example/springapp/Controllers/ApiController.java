@@ -1,5 +1,6 @@
 
 
+@Rest
 public class ApiController {
     
 }
